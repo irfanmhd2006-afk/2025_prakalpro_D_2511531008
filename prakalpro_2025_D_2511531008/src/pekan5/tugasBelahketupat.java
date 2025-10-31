@@ -1,7 +1,5 @@
 package tugasprakalpro;
-
-
-public class BelahketupatWOI {
+public class tugasBelahketupat {
 	
 	static void cover(){
 		int n=9;
@@ -58,4 +56,5 @@ public class BelahketupatWOI {
         cover();
     }
 }
+
 
