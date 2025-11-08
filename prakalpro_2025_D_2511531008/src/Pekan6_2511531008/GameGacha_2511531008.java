@@ -3,6 +3,8 @@ import java.util.Scanner;
 import java.util.Random;
 
 public class GameGacha_2511531008 {
+	// ini gamedadu jika dijumlahkan harus sama dengan 7
+	// kalau kkayak gini malah mirip gamegacha - gachaan wkwkwk 
 
 	public static void main(String[] args) {
 		Random rand = new Random();
@@ -44,3 +46,4 @@ public class GameGacha_2511531008 {
 	}
 
 }
+
